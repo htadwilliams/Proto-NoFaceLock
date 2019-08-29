@@ -30,3 +30,23 @@
 *.exe
 *.out
 *.app
+
+# OpenCV 
+*.tlog
+*.log
+
+# Visual Studio build and project artifacts
+*.ipch
+*.pdb
+*.db
+*.opendb
+*.suo
+*.ilk
+*.lastbuildstate
+*.idb
+*.unsuccessfulbuild
+*.vcxproj.filters
+*.vcxproj.user
+*.iobj
+*.ipdb
+*.sdf
